@@ -1,0 +1,2 @@
+# cyberstart
+Python deneme dosyası
